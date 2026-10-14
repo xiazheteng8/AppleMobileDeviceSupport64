@@ -13,7 +13,7 @@
 在 Windows 10 / Windows 11 上，部分用户通过 Microsoft Store 安装 iTunes 后，使用第三方 iPhone 调试、侧载或设备管理工具时，可能遇到以下问题：
 
 - 提示 `iTunes not installed`
--  iTunes not installed — need Apple Mobile Device Support DLLs
+iTunes not installed — need Apple Mobile Device Support DLLs
 
 - 提示缺少 `Apple Mobile Device Support`
 - 提示找不到 Apple 驱动或相关 DLL
